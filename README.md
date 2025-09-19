@@ -14,4 +14,4 @@ Welcome to my GitHub! I'm a passionate builder, programmer, and tech explorer. I
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/karim-benammar)
 
-![TechBuilds Logo](logo.png)
+![TechBuilds Logo](Logo.png)
