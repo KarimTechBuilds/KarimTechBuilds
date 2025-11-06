@@ -4,11 +4,12 @@ Welcome to my GitHub! I'm a passionate builder, programmer, and tech explorer. I
 
 ## 🚀 What I Do
 - 💻 Programming (C++, Python)
-- 🎮 Game development experiments
+- 🪛 Combining Hardware and Software in my projects
 - 🛠️ Building tools and kits for devs
 
 ## 🧰 Projects
-- ⚒️ More projects coming soon — stay tuned!
+- Smart Expense Tracker
+- More projects coming soon.
 
 
 ## 📫 Connect with Me
